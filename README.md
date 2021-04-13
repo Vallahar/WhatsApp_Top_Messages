@@ -1,7 +1,7 @@
 # WhatsApp: Top 3 messages per user
 
 # Description
-Simple whacky tool to analyze the most common messages for a specific user in a group chat. 
+Simple whacky tool to analyze the most common messages for a specific user in a group chat.
 
 # Usage
 1. Go to WhatsApp.
